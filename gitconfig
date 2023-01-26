@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ashish.dhawan2@gmail.com
+	name = ashish dhawan
